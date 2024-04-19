@@ -1,0 +1,9 @@
+@import url("https://fonts.google.com/specimen/Poppins");
+
+h1{
+    color: white;
+    font-size: 46px;
+   
+    width: 400px;
+    height: 130px;
+}

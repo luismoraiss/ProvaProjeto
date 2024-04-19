@@ -1,0 +1,36 @@
+#gratis {
+  color: white;
+  font-size: 16px;
+  width: 500px;
+  height: 50px;
+  background-color: hsl(248, 32%, 49%);
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: none;
+  
+}
+
+.containerDireita{
+    width: 50%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+form{
+    width: 500px;
+    height: 500px;
+    border-radius: 10px;
+    background-color: white;
+    margin-top: 25px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+
