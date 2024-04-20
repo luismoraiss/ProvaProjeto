@@ -9,7 +9,6 @@ const ContainerEsquerda = () => {
         <Tittle />
         <Subtittle />
         </div>
-       
     </div>
   );
 };
