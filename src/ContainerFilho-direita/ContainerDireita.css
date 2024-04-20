@@ -1,4 +1,4 @@
-#gratis {
+#testeGratis {
   color: white;
   font-size: 16px;
   width: 500px;
@@ -29,8 +29,23 @@ form{
     margin-top: 25px;
     display: flex;
     flex-direction: column;
-    justify-content: space-around;
+    justify-content: space-evenly;
     align-items: center;
+    box-shadow: 0 0 30px rgba(0,0,0,.1);
     
 }
 
+strong{
+color:hsl(0, 100%, 74%)  ;
+font-size: 12px;
+height: 30px;
+width: 335px;
+}
+
+#termosdeServico{
+color: hsl(246, 25%, 77%);
+font-size: 12px;
+height: 30px;
+width: 335px;
+
+}

@@ -4,4 +4,5 @@ button{
     border-radius: 10px;
     border: none;
     background-color: hsl(154, 59%, 51%);
+    color: white;
 }
